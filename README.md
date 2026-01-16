@@ -8,19 +8,19 @@ I have hands-on experience in chatbot development, cloud integration, and data v
 
 ### Tech Stack & Tools
 
-Programming Languages: Python, Java, C, C++, SQL
+Programming Languages: `Python, Java, C, C++, SQL`
 
-Web Technologies: HTML, CSS, JavaScript
+Web Technologies: `HTML, CSS, JavaScript`
 
-AI & Cloud: Dialogflow CX, Google Cloud , Firebase
+AI & Cloud: `Dialogflow CX, Google Cloud , Firebase`
 
-Data & Visualization: Power BI, Python (Data Analysis)
+Data & Visualization: `Power BI, Python (Data Analysis)`
 
-Other Tools: Flask, ROS
+Other Tools: `Flask, ROS`
 
 ---
 ### Contact Me
 
 📧 Email: ananthsm20@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/ananth-s-mahadev/
+🔗 LinkedIn: [in/ananth-s-mahadev/](https://www.linkedin.com/in/ananth-s-mahadev/)
