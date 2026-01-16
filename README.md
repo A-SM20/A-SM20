@@ -17,3 +17,10 @@ AI & Cloud: Dialogflow CX, Google Cloud , Firebase
 Data & Visualization: Power BI, Python (Data Analysis)
 
 Other Tools: Flask, ROS
+
+---
+### Contact Me
+
+📧 Email: ananthsm20@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ananth-s-mahadev/
